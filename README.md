@@ -30,4 +30,4 @@ To get community assistance and ask for help with implementation questions, plea
 
 ## Note
 
-Dogecore is a simple port of bitcore by bitpay. It was originally ported by Dogesight, and this lib is put on my git and npm for accessibility. It is based on an old version of bitcore, so contributions are encouraged.
+Dogecore-lib was originally ported by Dogesight.
